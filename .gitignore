@@ -1,0 +1,8 @@
+.idea/
+.gradle
+*.jar
+*.war
+*.ear
+*.class
+*.log
+*。temp
